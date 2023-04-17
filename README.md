@@ -2,8 +2,8 @@
 
 Índice
 
-* [Division de enteros ](#divisonEnteros.cpp)
+* [Division de enteros ](/blob/main/divisonEnteros.cpp)
 
-*[Punto Flotante](#blob/main/puntoFlotante.cpp)
+* [Punto Flotante](/blob/main/puntoFlotante.cpp)
 
 
