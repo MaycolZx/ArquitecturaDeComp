@@ -2,8 +2,8 @@
 
 Índice
 
-* [Division de enteros ](/blob/main/divisonEnteros.cpp)
+* [Division de enteros ](https://github.com/MaycolZx/ArquitecturaDeComp/blob/main/divisonEnteros.cpp)
 
-* [Punto Flotante](/blob/main/puntoFlotante.cpp)
+* [Punto Flotante](https://github.com/MaycolZx/ArquitecturaDeComp/blob/main/puntoFlotante.cpp)
 
 
